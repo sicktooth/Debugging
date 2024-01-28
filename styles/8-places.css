@@ -68,7 +68,7 @@ div.number_bathrooms {
     background-position: 50% 5px;
     background-repeat: no-repeat;
 }
-
+/* The problem came from the float */
 .max_guest{
     /* float: left; */
     background-image: url(../images/max_guest.png);
